@@ -1,0 +1,5 @@
+CREATE TABLE pet_shop (
+    id INTEGER PRIMARY KEY,
+    type TEXT NOT NULL,
+    price INTEGER NOT NULL
+);
